@@ -1,4 +1,4 @@
-# 📊 Data Q&A Assistant
+# 📊 Data Analyst
 
 A Streamlit application that allows users to upload CSV, JSON, or Excel files and ask questions about their data using Google's Gemini AI.
 
